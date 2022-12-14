@@ -215,7 +215,7 @@ button#activate.pushed {
 }
 
 div#panel:before {
-	content: "MÀY YÊU TAO AK ?";
+	content: "Bạn có nghe lời tôi không ?";
 	top: 3vmin;
 	position: relative;
 	font-size: 8vmin;
